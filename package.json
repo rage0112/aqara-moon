@@ -1,0 +1,50 @@
+{
+  "_from": "homebridge-mi-aqara",
+  "_id": "homebridge-mi-aqara@0.6.9",
+  "_inBundle": false,
+  "_integrity": "sha512-DyQfT6Gc4wpioEBqYwn6GFVD1wYtcevWaqwb6EzfRCwixJ87rb6QUl29EcLTpW7YAprzm4KQr7Zo3mc6Z+l6lQ==",
+  "_location": "/homebridge-mi-aqara",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "homebridge-mi-aqara",
+    "name": "homebridge-mi-aqara",
+    "escapedName": "homebridge-mi-aqara",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/homebridge-mi-aqara/-/homebridge-mi-aqara-0.6.9.tgz",
+  "_shasum": "3c0513c1b99f06114a3979d2a970d2a6aa8b6fb3",
+  "_spec": "homebridge-mi-aqara",
+  "_where": "C:\\WINDOWS\\system32",
+  "author": {
+    "name": "YinHang"
+  },
+  "bugs": {
+    "url": "https://github.com/YinHangCode/homebridge-mi-aqara/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "XiaoMi Aqara plugins for HomeBridge(https://github.com/nfarina/homebridge).",
+  "engines": {
+    "homebridge": ">=0.4.1",
+    "node": ">=0.12.0"
+  },
+  "homepage": "https://github.com/YinHangCode/homebridge-mi-aqara#readme",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "license": "ISC",
+  "name": "homebridge-mi-aqara",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinHangCode/homebridge-mi-aqara.git"
+  },
+  "version": "0.6.9"
+}
